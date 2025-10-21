@@ -1,0 +1,5 @@
+{
+  "name": "Copy of  Spark Video",
+  "description": "A tool to bulk-generate motivational videos. Upload a background video, enter a topic, specify the number of videos, and choose a language and voice to have AI-generated quotes spoken aloud.",
+  "requestFramePermissions": []
+}
